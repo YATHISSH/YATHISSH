@@ -3,11 +3,14 @@
 
 - 🌱 I’m currently learning **MERN,MEAN,AI,ML**
 
-- 💬 Ask me about **react.js,node.js,python,java,C**
+- 💬 Ask me about **react.js,node.js,Python,java,C**
 
 - 📫 How to reach me **yathithebeast@gmail.com**
 
+- 👨‍💻 Know More about me [https://yathissh.github.io/ADVANCED-PORTFOLIO-WhatsApp-chatbot-design-/YATHISSH%20MAIN%20PT.html](https://yathissh.github.io/ADVANCED-PORTFOLIO-WhatsApp-chatbot-design-/YATHISSH%20MAIN%20PT.html)
+
 - 📄 Know about my experiences [https://drive.google.com/file/d/1egeBFGPKu6gCmk1B6k1Sv_Fo68-4vHGl/view?usp=sharing](https://drive.google.com/file/d/1egeBFGPKu6gCmk1B6k1Sv_Fo68-4vHGl/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

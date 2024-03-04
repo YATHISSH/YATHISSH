@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **MERN,MEAN,AI,ML**
 
-- 👨‍💻 All of my projects are available at [https://yathissh.github.io/ADVANCED-PORTFOLIO-WhatsApp-chatbot-design-/YATHISSH%20MAIN%20PT.html](https://yathissh.github.io/ADVANCED-PORTFOLIO-WhatsApp-chatbot-design-/YATHISSH%20MAIN%20PT.html)
-
 - 💬 Ask me about **react.js,node.js,python,java,C**
 
 - 📫 How to reach me **yathithebeast@gmail.com**

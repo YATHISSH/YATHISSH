@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **yathithebeast@gmail.com**
 
-- 👨‍💻 Know More about me [https://yathissh.github.io/ADVANCED-PORTFOLIO-WhatsApp-chatbot-design-/YATHISSH%20MAIN%20PT.html](https://yathissh.github.io/ADVANCED-PORTFOLIO-WhatsApp-chatbot-design-/YATHISSH%20MAIN%20PT.html)
+- 👨‍💻 Know More about me [https://yathissh.github.io/ADVANCED-PORTFOLIO-WhatsApp-chatbot-design-/YATHISSH%20MAIN%20PT.html](https://yathissh.github.io/S-Yathissh-Personal--Portfolio/)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1egeBFGPKu6gCmk1B6k1Sv_Fo68-4vHGl/view?usp=sharing](https://drive.google.com/file/d/1egeBFGPKu6gCmk1B6k1Sv_Fo68-4vHGl/view?usp=sharing)
 

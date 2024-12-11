@@ -26,57 +26,41 @@
 
 ### 🔗 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/s-yathissh" target="blank">
+  <a href="https://linkedin.com/in/s-yathissh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/yathissh_ytb" target="blank">
+  <a href="https://instagram.com/yathissh_ytb" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.leetcode.com/yathissh" target="blank">
+  <a href="https://www.leetcode.com/yathissh" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-  <a href="https://www.codechef.com/users/yathissh" target="blank">
+  <a href="https://www.codechef.com/users/yathissh" target="_blank">
     <img src="https://img.shields.io/badge/Codechef-%235C5453.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="center">
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank">
-    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yathissh&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yathissh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 🏆 My LeetCode Achievements
-<p align="center">
-  <a href="https://leetcode.com/yathissh/" target="_blank">
-    <img src="https://leetcode-stats.vercel.app/api?username=yathissh&theme=dark" alt="LeetCode Badge" />
-  </a>
+<p align="center" style="font-family: 'Trebuchet MS', sans-serif; color: #FF4C00; font-size: 1.5rem; font-weight: bold;">
+  Proud Problem Solver on <span style="color:#FFA116;">LeetCode</span>
 </p>
+
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 1rem; margin: 1rem auto;">
+  <a href="https://leetcode.com/yathissh/" target="_blank" style="text-decoration: none;">
+    <img src="https://leetcard.jacoblin.cool/yathissh?theme=dark&font=Karma&ext=activity" alt="LeetCode Card" style="border-radius: 10px; width: 300px;"/>
+  </a>
+  <div style="max-width: 400px; text-align: left; background: linear-gradient(145deg, #282828, #444); color: #fff; padding: 1rem; border-radius: 10px; font-family: 'Trebuchet MS', sans-serif;">
+    <h3 style="color: #FFA116; margin-bottom: 0.5rem;">Badges Unlocked</h3>
+    <ul style="list-style-type: none; padding-left: 0;">
+      <li>🏅 <strong>Problem Solving Mastery</strong> - Solved 500+ problems</li>
+      <li>🎯 <strong>Daily Streak</strong> - Consistent coder for 30+ days</li>
+      <li>🔥 <strong>Top 10% Rank</strong> in Global Contests</li>
+      <li>🌟 <strong>Language Specialist</strong> - Python, Java, and C</li>
+    </ul>
+  </div>
+</div>
 
 ---
 

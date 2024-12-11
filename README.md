@@ -49,9 +49,10 @@
 ### 📈 LeetCode Stats
 <p align="center">
   <a href="https://leetcode.com/yathissh" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/yathissh?theme=dark" alt="LeetCode Stats" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.3);" />
+    <img src="https://leetcard.jacoblin.cool/yathissh?theme=dark" alt="LeetCode Stats" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 </p>
+
 
 ---
 
@@ -100,10 +101,10 @@
 ### 🌱 Current Focus
 <p align="center" style="font-size: 1.2rem; font-family: 'Trebuchet MS', sans-serif; color: #6C63FF; line-height: 1.8; margin: 2rem 0;"> I'm deeply immersed in the following areas to enhance my skills and contribute to impactful projects: </p>
 <ul align="center" style="list-style-type: none; padding: 0; margin: 0; font-size: 1.1rem; color: #555;">
-  <li style="margin: 1rem 0; font-weight: bold;">🔧 **Open Source Contributions**: Actively contributing to repositories in the **JavaScript** and **Python** ecosystems to refine my coding skills and collaborate with like-minded developers.</li>
-  <li style="margin: 1rem 0; font-weight: bold;">💻 **Skill Development**: Enhancing problem-solving and algorithmic skills on competitive coding platforms like **LeetCode**, **CodeChef**, and **HackerRank**.</li>
-  <li style="margin: 1rem 0; font-weight: bold;">🌐 **Technological Exploration**: Diving deep into **Artificial Intelligence** and **Machine Learning**, working on projects that integrate data science models to develop intelligent applications.</li>
-  <li style="margin: 1rem 0; font-weight: bold;">☁️ **Cloud Computing**: Learning cloud-native development, focusing on building scalable applications using cloud technologies like **Google Cloud** and **Docker**.</li>
+  <li style="margin: 1rem 0;">🔧 Open Source Contributions: Actively contributing to repositories in the JavaScript and Python ecosystems to refine my coding skills and collaborate with like-minded developers.</li>
+  <li style="margin: 1rem 0;">💻 Skill Development: Enhancing problem-solving and algorithmic skills on competitive coding platforms like LeetCode, CodeChef, and HackerRank.</li>
+  <li style="margin: 1rem 0;">🌐 Technological Exploration: Diving deep into Artificial Intelligence and Machine Learning, working on projects that integrate data science models to develop intelligent applications.</li>
+  <li style="margin: 1rem 0;">☁️ Cloud Computing: Learning cloud-native development, focusing on building scalable applications using cloud technologies like Google Cloud and Docker.</li>
 </ul>
 
 ---
@@ -111,10 +112,10 @@
 🎯 Goals for 2024
 <p align="center" style="font-size: 1.2rem; font-family: 'Trebuchet MS', sans-serif; color: #6C63FF; line-height: 1.8; margin: 2rem 0;"> Here's what I plan to achieve in 2024: </p>
 <ul align="center" style="list-style-type: none; padding: 0; margin: 0; font-size: 1.1rem; color: #555;">
-  <li style="margin: 1rem 0; font-weight: bold;">🌟 **Master Backend Development**: Focus on enhancing my skills in **Node.js**, **Express**, and **GraphQL** to build robust, scalable backend systems.</li>
-  <li style="margin: 1rem 0; font-weight: bold;">💡 **Build Scalable Cloud Applications**: Develop applications on **Google Cloud** using **Docker** and **Kubernetes** to gain proficiency in cloud-native architecture.</li>
-  <li style="margin: 1rem 0; font-weight: bold;">📈 **Leverage Machine Learning**: Create innovative projects by integrating **AI/ML** models into real-world applications like recommendation systems, predictive models, and data analytics tools.</li>
-  <li style="margin: 1rem 0; font-weight: bold;">🛠 **Contribute to Open Source**: Actively participate in **Hacktoberfest** and other open-source initiatives to give back to the community.</li>
+  <li style="margin: 1rem 0;">🌟 Master Backend Development: Focus on enhancing my skills in Node.js, Express, and GraphQL to build robust, scalable backend systems.</li>
+  <li style="margin: 1rem 0;">💡 Build Scalable Cloud Applications: Develop applications on Google Cloud using Docker and Kubernetes to gain proficiency in cloud-native architecture.</li>
+  <li style="margin: 1rem 0;">📈 Leverage Machine Learning: Create innovative projects by integrating AI/ML models into real-world applications like recommendation systems, predictive models, and data analytics tools.</li>
+  <li style="margin: 1rem 0;">🛠 Contribute to Open Source: Actively participate in Hacktoberfest and other open-source initiatives to give back to the community.</li>
 </ul>
 
 ---

@@ -48,10 +48,27 @@
 
 ### 📈 LeetCode Stats
 <p align="center">
-  <a href="https://leetcode.com/yathissh" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/yathissh?theme=dark" alt="LeetCode Stats" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+  <a href="https://leetcode.com/yathissh" target="_blank" style="text-decoration: none;">
+    <img 
+      src="https://leetcard.jacoblin.cool/yathissh?theme=dark" 
+      alt="LeetCode Stats" 
+      style="
+        border-radius: 10px; 
+        box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.3); 
+        transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out; 
+      " 
+      onmouseover="
+        this.style.transform='scale(1.1)'; 
+        this.style.boxShadow='0px 8px 15px rgba(255, 255, 255, 0.5)';
+      " 
+      onmouseout="
+        this.style.transform='scale(1)'; 
+        this.style.boxShadow='0px 4px 6px rgba(0, 0, 0, 0.3)';
+      "
+    />
   </a>
 </p>
+
 
 
 ---
@@ -97,183 +114,6 @@
 </p>
 
 ---
-
-### 🌱 Current Focus
-<p align="center" style="
-  font-size: 1.6rem;
-  font-family: 'Trebuchet MS', sans-serif;
-  color: #6C63FF;
-  line-height: 1.8;
-  margin: 2rem auto;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 2px;
-  text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);
-  max-width: 900px;
-  transition: all 0.3s ease-in-out;
-  opacity: 0.9;
-  cursor: pointer;
-" onmouseover="this.style.opacity='1'; this.style.transform='scale(1.05)'" onmouseout="this.style.opacity='0.9'; this.style.transform='scale(1)'">
-  I'm currently focusing on these areas to sharpen my skills and make an impact:
-</p>
-
-<ul align="center" style="
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
-  font-size: 1.2rem;
-  color: #444;
-  font-family: 'Arial', sans-serif;
-  font-weight: 500;
-  line-height: 2;
-  text-align: left;
-  max-width: 1000px;
-  margin-top: 2rem;
-">
-  <li style="
-    margin: 1.5rem 0;
-    font-weight: 700;
-    position: relative;
-    padding-left: 2rem;
-    transition: all 0.3s ease-in-out;
-  ">
-    🔧 <span style="color: #6C63FF;">Open Source Contributions:</span> Actively contributing to repositories in the JavaScript and Python ecosystems to enhance coding proficiency and collaborate on meaningful projects.
-    <div style="
-      position: absolute;
-      top: 50%;
-      left: 0;
-      width: 5px;
-      height: 100%;
-      background-color: #FF7043;
-      transform: translateY(-50%);
-      opacity: 0;
-      transition: all 0.3s ease-in-out;
-    " class="line-effect"></div>
-  </li>
-  <li style="
-    margin: 1.5rem 0;
-    font-weight: 700;
-    position: relative;
-    padding-left: 2rem;
-    transition: all 0.3s ease-in-out;
-  ">
-    💻 <span style="color: #6C63FF;">Skill Development:</span> Working on problem-solving and algorithmic challenges on competitive coding platforms such as LeetCode, CodeChef, and HackerRank.
-    <div style="
-      position: absolute;
-      top: 50%;
-      left: 0;
-      width: 5px;
-      height: 100%;
-      background-color: #FF7043;
-      transform: translateY(-50%);
-      opacity: 0;
-      transition: all 0.3s ease-in-out;
-    " class="line-effect"></div>
-  </li>
-  <li style="
-    margin: 1.5rem 0;
-    font-weight: 700;
-    position: relative;
-    padding-left: 2rem;
-    transition: all 0.3s ease-in-out;
-  ">
-    🌐 <span style="color: #6C63FF;">Technological Exploration:</span> Exploring Artificial Intelligence and Machine Learning, developing projects that integrate data science models for intelligent applications.
-    <div style="
-      position: absolute;
-      top: 50%;
-      left: 0;
-      width: 5px;
-      height: 100%;
-      background-color: #FF7043;
-      transform: translateY(-50%);
-      opacity: 0;
-      transition: all 0.3s ease-in-out;
-    " class="line-effect"></div>
-  </li>
-  <li style="
-    margin: 1.5rem 0;
-    font-weight: 700;
-    position: relative;
-    padding-left: 2rem;
-    transition: all 0.3s ease-in-out;
-  ">
-    ☁️ <span style="color: #6C63FF;">Cloud Computing:</span> Learning cloud-native development, focused on building scalable applications with Google Cloud and Docker technologies.
-    <div style="
-      position: absolute;
-      top: 50%;
-      left: 0;
-      width: 5px;
-      height: 100%;
-      background-color: #FF7043;
-      transform: translateY(-50%);
-      opacity: 0;
-      transition: all 0.3s ease-in-out;
-    " class="line-effect"></div>
-  </li>
-</ul>
-
-<hr style="border: 1px solid #6C63FF; width: 80%; margin: 2rem auto; border-radius: 8px;">
-
-### 🎯 Goals for 2024
-<p align="center" style="
-  font-size: 1.6rem;
-  font-family: 'Trebuchet MS', sans-serif;
-  color: #6C63FF;
-  line-height: 1.8;
-  margin: 2rem auto;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 2px;
-  text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);
-  max-width: 900px;
-  transition: all 0.3s ease-in-out;
-  opacity: 0.9;
-  cursor: pointer;
-" onmouseover="this.style.opacity='1'; this.style.transform='scale(1.05)'" onmouseout="this.style.opacity='0.9'; this.style.transform='scale(1)'">
-  Here’s what I’m aiming for in 2024:
-</p>
-
-<ul align="center" style="
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
-  font-size: 1.2rem;
-  color: #444;
-  font-family: 'Arial', sans-serif;
-  font-weight: 500;
-  line-height: 2;
-  text-align: left;
-  max-width: 1000px;
-  margin-top: 2rem;
-">
-  <li style="margin: 1.5rem 0; font-weight: 700; line-height: 2;">
-    🌟 <span style="color: #6C63FF;">Master Backend Development:</span> Improve my skills with Node.js, Express, and GraphQL for building powerful, scalable backend systems.
-  </li>
-  <li style="margin: 1.5rem 0; font-weight: 700; line-height: 2;">
-    💡 <span style="color: #6C63FF;">Build Scalable Cloud Applications:</span> Develop cloud-native applications with Google Cloud, Docker, and Kubernetes to enhance my cloud computing expertise.
-  </li>
-  <li style="margin: 1.5rem 0; font-weight: 700; line-height: 2;">
-    📈 <span style="color: #6C63FF;">Leverage Machine Learning:</span> Create innovative AI/ML projects like recommendation systems, predictive models, and data analytics tools.
-  </li>
-  <li style="margin: 1.5rem 0; font-weight: 700; line-height: 2;">
-    🛠 <span style="color: #6C63FF;">Contribute to Open Source:</span> Participate actively in Hacktoberfest and contribute to various open-source projects to give back to the community.
-  </li>
-</ul>
-
-<hr style="border: 1px solid #6C63FF; width: 80%; margin: 2rem auto; border-radius: 8px;">
-
-### 🚀 Fun Facts
-<p align="center" style="font-size: 1.2rem; font-family: 'Trebuchet MS', sans-serif; color: #6C63FF; line-height: 1.8; margin: 2rem 0;">
-  A few things I enjoy:
-</p>
-
-<ul align="center" style="list-style-type: none; padding: 0; margin: 0; font-size: 1.2rem; color: #444; font-family: 'Arial', sans-serif; font-weight: 500; text-align: left;">
-  <li>🎮 I love solving coding challenges and learning new algorithms.</li>
-  <li>🤖 Passionate about AI/ML and their real-world applications.</li>
-  <li>🎮 In my free time, I enjoy playing competitive video games and exploring new tech trends.</li>
-</ul>
-
-<hr style="border: 1px solid #6C63FF; width: 80%; margin: 2rem auto; border-radius: 8px;">
 
 📫 Feel free to reach out if you have any exciting projects or want to connect. I'd love to collaborate and grow together! 🎉
 

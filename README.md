@@ -28,19 +28,19 @@
 
 ---
 
-<h2 align="center" style="color:#6C63FF; font-family: 'Trebuchet MS', sans-serif; font-size: 2.5rem; text-transform: uppercase; font-weight: 600; letter-spacing: 1px; padding-bottom: 1rem;">🔗 Connect with Me</h2>
-<p align="center" style="margin-top: 1rem; display: flex; justify-content: center; gap: 1.5rem;">
-  <a href="https://linkedin.com/in/s-yathissh" target="_blank" style="text-decoration: none; transition: transform 0.3s;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="50" height="50" style="border-radius: 50%; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+### 🔗 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/s-yathissh" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/yathissh_ytb" target="_blank" style="text-decoration: none; transition: transform 0.3s;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="50" height="50" style="border-radius: 50%; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  <a href="https://instagram.com/yathissh_ytb" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.codechef.com/users/yathissh" target="_blank" style="text-decoration: none; transition: transform 0.3s;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" width="50" height="50" style="border-radius: 50%; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  <a href="https://www.leetcode.com/yathissh" target="blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-  <a href="https://www.leetcode.com/yathissh" target="_blank" style="text-decoration: none; transition: transform 0.3s;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="50" height="50" style="border-radius: 50%; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  <a href="https://www.codechef.com/users/yathissh" target="blank">
+    <img src="https://img.shields.io/badge/Codechef-%235C5453.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
 </p>
 

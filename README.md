@@ -98,20 +98,9 @@
 ---
 
 ### 🌱 Current Focus
-- **Open Source Contributions:** Actively contributing to repositories in the JavaScript and Python ecosystems.
-- **Skill Development:** Enhancing problem-solving skills on competitive coding platforms like LeetCode and CodeChef.
-- **Technological Exploration:** Exploring advanced concepts in **AI** and **ML** to design intelligent systems.
+<p align="center" style="font-size: 1.2rem; font-family: 'Trebuchet MS', sans-serif; color: #6C63FF; line-height: 1.8; margin: 2rem 0;"> I'm deeply immersed in the following areas to enhance my skills and contribute to impactful projects: </p> <ul align="center" style="list-style-type: none; padding: 0; margin: 0; font-size: 1.1rem; color: #555;"> <li style="margin: 1rem 0; font-weight: bold;">🔧 **Open Source Contributions**: Actively contributing to repositories in the **JavaScript** and **Python** ecosystems to refine my coding skills and collaborate with like-minded developers.</li> <li style="margin: 1rem 0; font-weight: bold;">💻 **Skill Development**: Enhancing problem-solving and algorithmic skills on competitive coding platforms like **LeetCode**, **CodeChef**, and **HackerRank**.</li> <li style="margin: 1rem 0; font-weight: bold;">🌐 **Technological Exploration**: Diving deep into **Artificial Intelligence** and **Machine Learning**, working on projects that integrate data science models to develop intelligent applications.</li> <li style="margin: 1rem 0; font-weight: bold;">☁️ **Cloud Computing**: Learning cloud-native development, focusing on building scalable applications using cloud technologies like **Google Cloud** and **Docker**.</li> </ul>
 
 ---
 
-### 🎯 Goals for 2024
-1. Master advanced **backend development** techniques.
-2. Build scalable **cloud-native applications**.
-3. Contribute to **high-impact open-source projects**.
-4. Achieve **top 1% status** on LeetCode and CodeChef.
-5. Gain expertise in **AI** and **ML** technologies to implement real-world applications.
-6. Develop a **personal project portfolio** showcasing my technical skills and accomplishments.
-
----
-
-This layout includes the requested changes with the future goals aligned with achievable objectives for 2024. Let me know if you need further adjustments!
+🎯 Goals for 2024
+<p align="center" style="font-size: 1.2rem; font-family: 'Trebuchet MS', sans-serif; color: #6C63FF; line-height: 1.8; margin: 2rem 0;"> Here's what I plan to achieve in 2024: </p> <ul align="center" style="list-style-type: none; padding: 0; margin: 0; font-size: 1.1rem; color: #555;"> <li style="margin: 1rem 0; font-weight: bold;">🌟 **Master Backend Development**: Focus on enhancing my skills in **Node.js**, **Express**, and **GraphQL** to build robust, scalable backend systems.</li> <li style="margin: 1rem 0; font-weight: bold;">💡 **Build Scalable Cloud Applications**: Develop applications on **Google Cloud** using **Docker** and **Kubernetes** to gain proficiency in cloud-native architecture.</li> <li style="margin: 1rem 0; font-weight: bold;">📈 **Leverage Machine Learning**: Create innovative projects by integrating **AI/ML** models into real-world applications like recommendation systems, predictive models, and data analytics tools.</li> <li style="margin: 1rem 0; font-weight: bold;">📊 **Contribute to High-Impact Open-Source Projects**: Contribute to high-profile open-source projects on GitHub, particularly in the **JavaScript**, **Python**, and **AI** domains.</li> <li style="margin: 1rem 0; font-weight: bold;">🏅 **Achieve Top 1% on Coding Platforms**: Focus on ranking in the top 1% in **LeetCode** and **CodeChef** through consistent practice and solving complex problems.</li> <li style="margin: 1rem 0; font-weight: bold;">📚 **Develop Personal Portfolio Projects**: Build a series of **portfolio projects** that showcase my abilities in web development, machine learning, and backend systems.</li> <li style="margin: 1rem 0; font-weight: bold;">🛠️ **Collaborate on Real-World Projects**: Collaborate with industry professionals and other developers to build solutions that solve real-world problems using the latest technologies.</li> </ul>

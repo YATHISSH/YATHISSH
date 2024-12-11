@@ -42,20 +42,26 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Problems%20Solved-520-%2300FF00?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total Problems Solved" />
-  <img src="https://img.shields.io/badge/Easy-200-%23FFA500?style=for-the-badge&logo=leetcode&logoColor=white" alt="Easy Problems" />
-  <img src="https://img.shields.io/badge/Medium-250-%23FF4500?style=for-the-badge&logo=leetcode&logoColor=white" alt="Medium Problems" />
-  <img src="https://img.shields.io/badge/Hard-70-%23FF0000?style=for-the-badge&logo=leetcode&logoColor=white" alt="Hard Problems" />
-</p>
-
----
-
-### 📊 Additional Stats
-- **CodeChef Rating**: 1800+ (4⭐)
-- **Daily Coding Streak**: 35 days
-- **Top 10% Globally in Codeforces Competitions**
-- **GitHub Contributions**: 500+ contributions in 2024
+<div align="center" style="margin-top: 10px; font-family: Arial, sans-serif; font-size: 1rem; line-height: 1.6; color: #D3D3D3;">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; text-align: center;">
+    <div style="background: #1F1F1F; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+      <span style="font-size: 2rem; color: #4CAF50;">520</span><br />
+      <span style="color: #E6E6E6;">Total Problems Solved</span>
+    </div>
+    <div style="background: #1F1F1F; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+      <span style="font-size: 2rem; color: #FFC107;">200</span><br />
+      <span style="color: #E6E6E6;">Easy Problems</span>
+    </div>
+    <div style="background: #1F1F1F; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+      <span style="font-size: 2rem; color: #FF5722;">250</span><br />
+      <span style="color: #E6E6E6;">Medium Problems</span>
+    </div>
+    <div style="background: #1F1F1F; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+      <span style="font-size: 2rem; color: #F44336;">70</span><br />
+      <span style="color: #E6E6E6;">Hard Problems</span>
+    </div>
+  </div>
+</div>
 
 ---
 
@@ -85,10 +91,5 @@
 </p>
 
 ---
-
-### 🌟 Highlights
-- Building scalable **AI/ML** models for innovative projects.
-- Exploring new tech daily to push limits and achieve excellence.
-- **Collaborating** on GitHub open-source projects with a focus on impactful solutions.
 
 <h3 align="center" style="color: #FF7043;">✨ Let’s Connect and Build Something Amazing Together!</h3>

@@ -48,26 +48,48 @@
 
 ### 📈 LeetCode Stats
 <p align="center">
-  <a href="https://leetcode.com/yathissh" target="_blank" style="text-decoration: none;">
+  <a href="https://leetcode.com/yathissh" target="_blank" style="text-decoration: none; display: inline-block; position: relative;">
     <img 
       src="https://leetcard.jacoblin.cool/yathissh?theme=dark" 
       alt="LeetCode Stats" 
       style="
         border-radius: 10px; 
         box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.3); 
-        transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out; 
+        transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out, filter 0.3s ease-in-out;
+        filter: brightness(1);
       " 
       onmouseover="
-        this.style.transform='scale(1.1)'; 
-        this.style.boxShadow='0px 8px 15px rgba(255, 255, 255, 0.5)';
+        this.style.transform='scale(1.1) rotate(2deg)'; 
+        this.style.boxShadow='0px 12px 24px rgba(255, 255, 255, 0.5)'; 
+        this.style.filter='brightness(1.2)';
       " 
       onmouseout="
-        this.style.transform='scale(1)'; 
-        this.style.boxShadow='0px 4px 6px rgba(0, 0, 0, 0.3)';
+        this.style.transform='scale(1) rotate(0deg)'; 
+        this.style.boxShadow='0px 4px 6px rgba(0, 0, 0, 0.3)'; 
+        this.style.filter='brightness(1)';
       "
     />
+    <span 
+      style="
+        content: ''; 
+        display: block; 
+        position: absolute; 
+        top: 0; 
+        left: 0; 
+        right: 0; 
+        bottom: 0; 
+        border-radius: 10px; 
+        background: linear-gradient(135deg, rgba(255, 215, 0, 0.4), rgba(0, 255, 255, 0.4)); 
+        opacity: 0; 
+        transition: opacity 0.3s ease-in-out;
+        pointer-events: none;
+      " 
+      onmouseover="this.style.opacity='1'" 
+      onmouseout="this.style.opacity='0'"
+    ></span>
   </a>
 </p>
+
 
 
 

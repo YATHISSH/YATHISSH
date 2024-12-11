@@ -49,9 +49,10 @@
 ### 📈 LeetCode Stats
 <p align="center">
   <a href="https://leetcode.com/yathissh" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/yathissh?theme=dark" alt="LeetCode Stats" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+    <img src="https://leetcard.jacoblin.cool/yathissh?theme=dark" alt="LeetCode Stats" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 </p>
+
 
 ---
 

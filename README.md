@@ -98,24 +98,59 @@
 ---
 
 ### 🌱 Current Focus
-<p align="center" style="font-size: 1.2rem; font-family: 'Trebuchet MS', sans-serif; color: #6C63FF; line-height: 1.8; margin: 2rem 0;"> I'm deeply immersed in the following areas to enhance my skills and contribute to impactful projects: </p>
+<p align="center" style="font-size: 1.2rem; font-family: 'Trebuchet MS', sans-serif; color: #6C63FF; line-height: 1.8; margin: 2rem 0; font-weight: 600; text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2);">
+  I'm deeply immersed in the following areas to enhance my skills and contribute to impactful projects:
+</p>
 <ul align="center" style="list-style-type: none; padding: 0; margin: 0; font-size: 1.1rem; color: #555;">
-  <li style="margin: 1rem 0;">🔧 Open Source Contributions: Actively contributing to repositories in the JavaScript and Python ecosystems to refine my coding skills and collaborate with like-minded developers.</li>
-  <li style="margin: 1rem 0;">💻 Skill Development: Enhancing problem-solving and algorithmic skills on competitive coding platforms like LeetCode, CodeChef, and HackerRank.</li>
-  <li style="margin: 1rem 0;">🌐 Technological Exploration: Diving deep into Artificial Intelligence and Machine Learning, working on projects that integrate data science models to develop intelligent applications.</li>
-  <li style="margin: 1rem 0;">☁️ Cloud Computing: Learning cloud-native development, focusing on building scalable applications using cloud technologies like Google Cloud and Docker.</li>
+  <li style="margin: 1rem 0; font-weight: 700; line-height: 1.8;">
+    🔧 <strong>Open Source Contributions:</strong> Actively contributing to repositories in the JavaScript and Python ecosystems to refine my coding skills and collaborate with like-minded developers.
+  </li>
+  <li style="margin: 1rem 0; font-weight: 700; line-height: 1.8;">
+    💻 <strong>Skill Development:</strong> Enhancing problem-solving and algorithmic skills on competitive coding platforms like LeetCode, CodeChef, and HackerRank.
+  </li>
+  <li style="margin: 1rem 0; font-weight: 700; line-height: 1.8;">
+    🌐 <strong>Technological Exploration:</strong> Diving deep into Artificial Intelligence and Machine Learning, working on projects that integrate data science models to develop intelligent applications.
+  </li>
+  <li style="margin: 1rem 0; font-weight: 700; line-height: 1.8;">
+    ☁️ <strong>Cloud Computing:</strong> Learning cloud-native development, focusing on building scalable applications using cloud technologies like Google Cloud and Docker.
+  </li>
 </ul>
 
 ---
 
 🎯 Goals for 2024
-<p align="center" style="font-size: 1.2rem; font-family: 'Trebuchet MS', sans-serif; color: #6C63FF; line-height: 1.8; margin: 2rem 0;"> Here's what I plan to achieve in 2024: </p>
+<p align="center" style="font-size: 1.2rem; font-family: 'Trebuchet MS', sans-serif; color: #6C63FF; line-height: 1.8; margin: 2rem 0; font-weight: 600; text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2);">
+  Here's what I plan to achieve in 2024:
+</p>
 <ul align="center" style="list-style-type: none; padding: 0; margin: 0; font-size: 1.1rem; color: #555;">
-  <li style="margin: 1rem 0;">🌟 Master Backend Development: Focus on enhancing my skills in Node.js, Express, and GraphQL to build robust, scalable backend systems.</li>
-  <li style="margin: 1rem 0;">💡 Build Scalable Cloud Applications: Develop applications that leverage the full potential of cloud technologies.</li>
-  <li style="margin: 1rem 0;">📚 Contribute to Open-Source Projects: Contribute significantly to open-source repositories related to AI/ML and web development.</li>
+  <li style="margin: 1rem 0; font-weight: 700; line-height: 1.8;">
+    🌟 <strong>Master Backend Development:</strong> Focus on enhancing my skills in Node.js, Express, and GraphQL to build robust, scalable backend systems.
+  </li>
+  <li style="margin: 1rem 0; font-weight: 700; line-height: 1.8;">
+    💡 <strong>Build Scalable Cloud Applications:</strong> Develop applications on Google Cloud using Docker and Kubernetes to gain proficiency in cloud-native architecture.
+  </li>
+  <li style="margin: 1rem 0; font-weight: 700; line-height: 1.8;">
+    📈 <strong>Leverage Machine Learning:</strong> Create innovative projects by integrating AI/ML models into real-world applications like recommendation systems, predictive models, and data analytics tools.
+  </li>
+  <li style="margin: 1rem 0; font-weight: 700; line-height: 1.8;">
+    🛠 <strong>Contribute to Open Source:</strong> Actively participate in Hacktoberfest and other open-source initiatives to give back to the community.
+  </li>
 </ul>
 
 ---
 
-🌟 Feel free to reach out to me via any of the platforms above or email for collaborations and discussions!
+### 🚀 Fun Facts
+<p align="center" style="font-size: 1.2rem; font-family: 'Trebuchet MS', sans-serif; color: #6C63FF; line-height: 1.8; margin: 2rem 0; font-weight: 600; text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2);">
+  Fun tidbits about me:
+</p>
+<ul align="center" style="list-style-type: none; padding: 0; margin: 0; font-size: 1.1rem; color: #555;">
+  <li style="margin: 1rem 0; font-weight: 700; line-height: 1.8;">🎮 I love solving coding challenges and learning new algorithms.</li>
+  <li style="margin: 1rem 0; font-weight: 700; line-height: 1.8;">🤖 I'm passionate about artificial intelligence and its application in real-world scenarios.</li>
+  <li style="margin: 1rem 0; font-weight: 700; line-height: 1.8;">🕹️ In my free time, you’ll often find me playing competitive video games or exploring new tech trends.</li>
+</ul>
+
+---
+
+📫 Feel free to reach out if you have any exciting projects or want to connect. I'd love to collaborate and grow together! 🎉
+
+---

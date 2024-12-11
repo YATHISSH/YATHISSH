@@ -154,3 +154,87 @@
 📫 Feel free to reach out if you have any exciting projects or want to connect. I'd love to collaborate and grow together! 🎉
 
 ---
+
+### 🌱 Current Focus
+<p align="center" style="
+  font-size: 1.6rem;
+  font-family: 'Trebuchet MS', sans-serif;
+  color: #6C63FF;
+  line-height: 1.8;
+  margin: 2rem auto;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);
+  max-width: 900px;
+  transition: all 0.3s ease-in-out;
+  opacity: 0.9;
+  cursor: pointer;
+" onmouseover="this.style.opacity='1'; this.style.transform='scale(1.05)'" onmouseout="this.style.opacity='0.9'; this.style.transform='scale(1)'">
+  I'm currently focusing on these areas to sharpen my skills and make an impact:
+</p>
+
+<ul align="center" style="
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  font-size: 1.2rem;
+  color: #444;
+  font-family: 'Arial', sans-serif;
+  font-weight: 500;
+  line-height: 2;
+  text-align: left;
+  max-width: 1000px;
+  margin-top: 2rem;
+">
+  <li style="
+    margin: 1.5rem 0;
+    font-weight: 700;
+    position: relative;
+    padding-left: 2rem;
+    transition: all 0.3s ease-in-out;
+  ">
+    🔧 <span style="color: #6C63FF;">Open Source Contributions:</span> Actively contributing to repositories in the JavaScript and Python ecosystems to enhance coding proficiency and collaborate on meaningful projects.
+    <div style="
+      position: absolute;
+      top: 50%;
+      left: 0;
+      width: 5px;
+      height: 100%;
+      background-color: #FF7043;
+      transform: translateY(-50%);
+      opacity: 0;
+      transition: all 0.3s ease-in-out;
+    " class="line-effect"></div>
+  </li>
+  <li style="
+    margin: 1.5rem 0;
+    font-weight: 700;
+    position: relative;
+    padding-left: 2rem;
+    transition: all 0.3s ease-in-out;
+  ">
+    💻 <span style="color: #6C63FF;">Skill Development:</span> Working on problem-solving and algorithmic challenges on competitive coding platforms such as LeetCode, CodeChef, and HackerRank.
+    <div style="
+      position: absolute;
+      top: 50%;
+      left: 0;
+      width: 5px;
+      height: 100%;
+      background-color: #FF7043;
+      transform: translateY(-50%);
+      opacity: 0;
+      transition: all 0.3s ease-in-out;
+    " class="line-effect"></div>
+  </li>
+  <li style="
+    margin: 1.5rem 0;
+    font-weight: 700;
+    position: relative;
+    padding-left: 2rem;
+    transition: all 0.3s ease-in-out;
+  ">
+    🌐 <span style="color: #6C63FF;">Technological Exploration:</span> Exploring Artificial Intelligence and Machine Learning, developing projects that integrate data science models for intelligent applications.
+    <div style="
+      position: absolute;
+
